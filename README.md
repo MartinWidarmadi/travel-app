@@ -1,6 +1,6 @@
-# hive_application
+# travel_application
 
-A new Flutter project.
+study based project to learn clean architecture, riverpod, and hive.
 
 ## Getting Started
 
